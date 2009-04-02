@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing
+END
+yielding_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/yielding_example.rb
+END
+stack_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/stack_spec.rb
+END
+io_processor_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/io_processor_spec.rb
+END
+partial_mock_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/partial_mock_example.rb
+END
+filtered_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/filtered_formatter.rb
+END
+implicit_docstrings_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/implicit_docstrings_example.rb
+END
+stack_spec_with_nested_example_groups.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/stack_spec_with_nested_example_groups.rb
+END
+stubbing_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/stubbing_example.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/spec_helper.rb
+END
+shared_stack_examples.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/shared_stack_examples.rb
+END
+helper_method_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/helper_method_example.rb
+END
+filtered_formatter_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/filtered_formatter_example.rb
+END
+custom_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/custom_formatter.rb
+END
+dynamic_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/dynamic_spec.rb
+END
+pending_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/pending_example.rb
+END
+custom_matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/custom_matchers.rb
+END
+file_accessor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/file_accessor.rb
+END
+mocking_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/mocking_example.rb
+END
+stack.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/stack.rb
+END
+io_processor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/io_processor.rb
+END
+greeter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/greeter_spec.rb
+END
+simple_matcher_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/simple_matcher_example.rb
+END
+shared_example_group_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/shared_example_group_example.rb
+END
+nested_classes_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/nested_classes_example.rb
+END
+multi_threaded_example_group_runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/multi_threaded_example_group_runner.rb
+END
+file_accessor_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/file_accessor_spec.rb
+END
+predicate_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/examples/passing/predicate_example.rb
+END

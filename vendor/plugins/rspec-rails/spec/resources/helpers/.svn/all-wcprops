@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/helpers
+END
+explicit_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/helpers/explicit_helper.rb
+END
+plugin_application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/helpers/plugin_application_helper.rb
+END
+more_explicit_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/helpers/more_explicit_helper.rb
+END
+view_spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/helpers/view_spec_helper.rb
+END
+addition_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/helpers/addition_helper.rb
+END

@@ -1,0 +1,148 @@
+8
+
+dir
+510
+http://leopard.theitguys.co.uk/projects/grouptask/trunk/railsapp/vendor/plugins/rspec-rails
+http://leopard.theitguys.co.uk/projects
+
+
+
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07848226-eb29-0410-9935-a462e0b4e283
+
+License.txt
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+ba4089033decaf7e60677fc239b44a6c
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+Rakefile
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+4e30aa35a65979d8a80cda8c7e69eb6e
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+README.rdoc
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+e60bc4037a36823440959de59911fa00
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+TODO.txt
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+14e8e29f3924cb1e1232682c25b19e95
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+Manifest.txt
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+7771d2973db87b8884502c1b830a4a93
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+init.rb
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+640f74b8156893c1bc98a2050c8589d3
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+lib
+dir
+
+History.rdoc
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+a0397fa42516ab975b71d9e833f53acb
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+generators
+dir
+
+spec
+dir
+
+.document
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+7f80f1e8cb6c02bfd6166d652e5344e1
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+Upgrade.rdoc
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+d80eec7c8132b29a3c97e15803b68d52
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+features
+dir
+

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner
+END
+output_one_time_fixture_runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/output_one_time_fixture_runner.rb
+END
+class_and_argument_parser_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/class_and_argument_parser_spec.rb
+END
+spec_parser_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/spec_parser_spec.rb
+END
+configuration_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/configuration_spec.rb
+END
+quiet_backtrace_tweaker_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/quiet_backtrace_tweaker_spec.rb
+END
+output_one_time_fixture.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/output_one_time_fixture.rb
+END
+drb_command_line_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/drb_command_line_spec.rb
+END
+heckler_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/heckler_spec.rb
+END
+output_one_time_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/output_one_time_spec.rb
+END
+examples.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/examples.txt
+END
+spec_spaced.opts
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/spec_spaced.opts
+END
+noisy_backtrace_tweaker_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/noisy_backtrace_tweaker_spec.rb
+END
+heckle_runner_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/heckle_runner_spec.rb
+END
+option_parser_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/option_parser_spec.rb
+END
+command_line_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/command_line_spec.rb
+END
+failed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/failed.txt
+END
+spec_drb.opts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/spec_drb.opts
+END
+options_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/options_spec.rb
+END
+empty_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/empty_file.txt
+END
+example_group_runner_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/example_group_runner_spec.rb
+END
+reporter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/reporter_spec.rb
+END
+spec.opts
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/spec.opts
+END

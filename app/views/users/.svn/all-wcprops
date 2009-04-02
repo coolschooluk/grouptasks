@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/views/users
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/views/users/new.html.erb
+END
+_user_bar.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/views/users/_user_bar.html.erb
+END

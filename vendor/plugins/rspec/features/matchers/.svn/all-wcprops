@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/matchers
+END
+create_matcher.feature
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/matchers/create_matcher.feature
+END
+create_matcher_outside_rspec.feature
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/matchers/create_matcher_outside_rspec.feature
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/autotest
+END
+autotest_matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/autotest/autotest_matchers.rb
+END
+failed_results_re_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/autotest/failed_results_re_spec.rb
+END
+rspec_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/autotest/rspec_spec.rb
+END
+autotest_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/autotest/autotest_helper.rb
+END
+discover_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/autotest/discover_spec.rb
+END

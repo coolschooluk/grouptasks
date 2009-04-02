@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/controllers
+END
+action_view_base_spec_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/controllers/action_view_base_spec_controller.rb
+END
+redirect_spec_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/controllers/redirect_spec_controller.rb
+END
+controller_spec_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/controllers/controller_spec_controller.rb
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/controllers/application.rb
+END
+example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/controllers/example.txt
+END
+rjs_spec_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/controllers/rjs_spec_controller.rb
+END
+render_spec_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/controllers/render_spec_controller.rb
+END

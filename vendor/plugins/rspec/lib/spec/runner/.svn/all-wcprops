@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner
+END
+example_group_runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/example_group_runner.rb
+END
+backtrace_tweaker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/backtrace_tweaker.rb
+END
+reporter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/reporter.rb
+END
+heckle_runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/heckle_runner.rb
+END
+option_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/option_parser.rb
+END
+command_line.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/command_line.rb
+END
+spec_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/spec_parser.rb
+END
+configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/configuration.rb
+END
+class_and_arguments_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/class_and_arguments_parser.rb
+END
+options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/options.rb
+END
+drb_command_line.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/drb_command_line.rb
+END
+heckle_runner_unsupported.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/runner/heckle_runner_unsupported.rb
+END

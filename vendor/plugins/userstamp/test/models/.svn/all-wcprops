@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/models
+END
+ping.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/models/ping.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/models/user.rb
+END
+comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/models/comment.rb
+END
+post.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/models/post.rb
+END
+person.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/models/person.rb
+END

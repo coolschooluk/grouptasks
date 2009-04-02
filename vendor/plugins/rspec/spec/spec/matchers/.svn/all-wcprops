@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers
+END
+matchers_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/matchers_spec.rb
+END
+matcher_methods_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/matcher_methods_spec.rb
+END
+equal_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/equal_spec.rb
+END
+compatibility_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/compatibility_spec.rb
+END
+be_close_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/be_close_spec.rb
+END
+has_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/has_spec.rb
+END
+respond_to_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/respond_to_spec.rb
+END
+raise_error_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/raise_error_spec.rb
+END
+be_kind_of_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/be_kind_of_spec.rb
+END
+eql_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/eql_spec.rb
+END
+satisfy_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/satisfy_spec.rb
+END
+dsl_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/dsl_spec.rb
+END
+matcher_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/matcher_spec.rb
+END
+have_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/have_spec.rb
+END
+include_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/include_spec.rb
+END
+change_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/change_spec.rb
+END
+be_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/be_spec.rb
+END
+throw_symbol_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/throw_symbol_spec.rb
+END
+match_array_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/match_array_spec.rb
+END
+match_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/match_spec.rb
+END
+exist_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/exist_spec.rb
+END
+simple_matcher_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/simple_matcher_spec.rb
+END
+description_generation_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/description_generation_spec.rb
+END
+be_instance_of_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/be_instance_of_spec.rb
+END
+operator_matcher_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/matchers/operator_matcher_spec.rb
+END

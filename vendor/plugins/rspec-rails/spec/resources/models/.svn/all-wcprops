@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/models
+END
+animal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/models/animal.rb
+END
+person.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/models/person.rb
+END
+thing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/models/thing.rb
+END

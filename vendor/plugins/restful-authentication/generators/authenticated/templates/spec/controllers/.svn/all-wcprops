@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/spec/controllers
+END
+users_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/spec/controllers/users_controller_spec.rb
+END
+authenticated_system_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/spec/controllers/authenticated_system_spec.rb
+END
+sessions_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/spec/controllers/sessions_controller_spec.rb
+END
+access_control_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/spec/controllers/access_control_spec.rb
+END

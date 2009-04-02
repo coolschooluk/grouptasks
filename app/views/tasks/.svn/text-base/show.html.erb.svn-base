@@ -1,0 +1,33 @@
+<p>
+  <b>Name:</b>
+  <%=h @task.name %>
+</p>
+
+<p>
+  <b>Due date:</b>
+  <%=h @task.due_date %>
+</p>
+
+<p>
+  <b>Duration:</b>
+  <%=h @task.duration %>
+</p>
+
+<p>
+  <b>Assigned to:</b>
+  <%=h @task.assigned_to %>
+</p>
+
+<p>
+  <b>Status:</b>
+  <%=h @task.status %>
+</p>
+
+<p>
+  <b>Priority:</b>
+  <%=h @task.priority %>
+</p>
+
+
+<%= link_to 'Edit', edit_task_path(@task) %> |
+<%= link_to 'Back', tasks_path %>

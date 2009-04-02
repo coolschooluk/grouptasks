@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter
+END
+specdoc_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/specdoc_formatter_spec.rb
+END
+html_formatted-1.9.1.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.9.1.html
+END
+failing_example_groups_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/failing_example_groups_formatter_spec.rb
+END
+html_formatted-1.8.4.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.8.4.html
+END
+html_formatted-1.8.5.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.8.5.html
+END
+html_formatted-1.8.6.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.8.6.html
+END
+html_formatted-1.8.7.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.8.7.html
+END
+nested_text_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/nested_text_formatter_spec.rb
+END
+progress_bar_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/progress_bar_formatter_spec.rb
+END
+text_mate_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatter_spec.rb
+END
+snippet_extractor_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/snippet_extractor_spec.rb
+END
+profile_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/profile_formatter_spec.rb
+END
+html_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatter_spec.rb
+END
+text_mate_formatted-1.9.1.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatted-1.9.1.html
+END
+failing_examples_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/failing_examples_formatter_spec.rb
+END
+text_mate_formatted-1.8.4.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatted-1.8.4.html
+END
+base_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/base_formatter_spec.rb
+END
+text_mate_formatted-1.8.6.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatted-1.8.6.html
+END
+text_mate_formatted-1.8.7.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatted-1.8.7.html
+END
+html_formatted-1.8.5-jruby.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.8.5-jruby.html
+END
+html_formatted-1.8.6-jruby.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.8.6-jruby.html
+END
+base_text_formatter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/runner/formatter/base_text_formatter_spec.rb
+END

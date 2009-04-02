@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/spec/rails/mocks
+END
+ar_classes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/spec/rails/mocks/ar_classes.rb
+END
+mock_model_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/spec/rails/mocks/mock_model_spec.rb
+END
+stub_model_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/spec/rails/mocks/stub_model_spec.rb
+END

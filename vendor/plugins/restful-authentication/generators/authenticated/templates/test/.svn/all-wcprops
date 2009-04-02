@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/test
+END
+unit_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/test/unit_test.rb
+END
+functional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/test/functional_test.rb
+END
+model_functional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/test/model_functional_test.rb
+END
+mailer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/test/mailer_test.rb
+END

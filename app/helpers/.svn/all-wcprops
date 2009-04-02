@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/helpers
+END
+groups_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/helpers/groups_helper.rb
+END
+users_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/helpers/users_helper.rb
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/helpers/application_helper.rb
+END
+tasks_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/helpers/tasks_helper.rb
+END
+sessions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/helpers/sessions_helper.rb
+END
+projects_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/helpers/projects_helper.rb
+END

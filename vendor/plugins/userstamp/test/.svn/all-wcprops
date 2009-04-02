@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/schema.rb
+END
+stamping_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/stamping_test.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/database.yml
+END
+userstamp_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/userstamp_controller_test.rb
+END
+compatibility_stamping_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/compatibility_stamping_test.rb
+END

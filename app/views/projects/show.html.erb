@@ -1,0 +1,33 @@
+<p>
+  <b>Name:</b>
+  <%=h @project.name %>
+</p>
+
+<p>
+  <b>Start date:</b>
+  <%=h @project.start_date %>
+</p>
+
+<p>
+  <b>Due date:</b>
+  <%=h @project.due_date %>
+</p>
+
+<p>
+  <b>Status:</b>
+  <%=h @project.status %>
+</p>
+
+<p>
+  <b>Notes:</b>
+  <%=h @project.notes %>
+</p>
+
+<p>
+  <b>Owner:</b>
+  <%=h @project.owner %>
+</p>
+
+
+<%= link_to 'Edit', edit_project_path(@project) %> |
+<%= link_to 'Back', projects_path %>

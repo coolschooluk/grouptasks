@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/views/projects
+END
+new.html.erb_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/views/projects/new.html.erb_spec.rb
+END
+show.html.erb_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/views/projects/show.html.erb_spec.rb
+END
+edit.html.erb_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/views/projects/edit.html.erb_spec.rb
+END
+index.html.erb_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/views/projects/index.html.erb_spec.rb
+END

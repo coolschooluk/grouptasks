@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/subject
+END
+implicit_subject.feature
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/subject/implicit_subject.feature
+END
+explicit_subject.feature
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/subject/explicit_subject.feature
+END

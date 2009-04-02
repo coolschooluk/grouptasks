@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/509/grouptask/trunk/railsapp/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/509/grouptask/trunk/railsapp/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/509/grouptask/trunk/railsapp/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/509/grouptask/trunk/railsapp/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/509/grouptask/trunk/railsapp/config/environment.rb
+END

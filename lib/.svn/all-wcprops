@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projects/!svn/ver/509/grouptask/trunk/railsapp/lib
+END
+authenticated_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/509/grouptask/trunk/railsapp/lib/authenticated_test_helper.rb
+END
+authenticated_system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/509/grouptask/trunk/railsapp/lib/authenticated_system.rb
+END

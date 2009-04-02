@@ -1,0 +1,55 @@
+8
+
+dir
+510
+http://leopard.theitguys.co.uk/projects/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec
+http://leopard.theitguys.co.uk/projects
+
+
+
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07848226-eb29-0410-9935-a462e0b4e283
+
+rspec_generator.rb
+file
+
+
+
+
+2009-03-28T21:05:07.000000Z
+71107de880302b516d68990f641b8bfd
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+CHANGES
+file
+
+
+
+
+2009-03-28T21:05:07.000000Z
+adb960ee3c661df732004d42dc0e9587
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+templates
+dir
+

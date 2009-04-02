@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/fixtures
+END
+groups.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/fixtures/groups.yml
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/fixtures/users.yml
+END
+tasks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/fixtures/tasks.yml
+END
+projects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/fixtures/projects.yml
+END

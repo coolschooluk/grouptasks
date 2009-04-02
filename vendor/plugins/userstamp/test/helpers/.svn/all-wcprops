@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/helpers
+END
+unit_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/helpers/unit_test_helper.rb
+END
+functional_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/helpers/functional_test_helper.rb
+END

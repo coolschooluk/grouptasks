@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec
+END
+insert_html.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/insert_html.js.rjs
+END
+hide_div.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/hide_div.js.rjs
+END
+replace.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/replace.js.rjs
+END
+_replacement_partial.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/_replacement_partial.html.erb
+END
+hide_page_element.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/hide_page_element.js.rjs
+END
+replace_html.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/replace_html.js.rjs
+END
+visual_effect.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/visual_effect.js.rjs
+END
+visual_toggle_effect.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/visual_toggle_effect.js.rjs
+END
+replace_html_with_partial.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/replace_html_with_partial.js.rjs
+END

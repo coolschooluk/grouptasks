@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/lib/spec/rails/matchers
+END
+assert_select.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/lib/spec/rails/matchers/assert_select.rb
+END
+redirect_to.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/lib/spec/rails/matchers/redirect_to.rb
+END
+change.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/lib/spec/rails/matchers/change.rb
+END
+ar_be_valid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/lib/spec/rails/matchers/ar_be_valid.rb
+END
+have_text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/lib/spec/rails/matchers/have_text.rb
+END
+include_text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/lib/spec/rails/matchers/include_text.rb
+END
+render_template.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/lib/spec/rails/matchers/render_template.rb
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/features/transactions
+END
+transactions_should_rollback.feature
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/features/transactions/transactions_should_rollback.feature
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/expectations/differs
+END
+default.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/expectations/differs/default.rb
+END
+load-diff-lcs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/expectations/differs/load-diff-lcs.rb
+END

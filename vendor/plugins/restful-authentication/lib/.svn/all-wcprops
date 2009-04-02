@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/lib
+END
+authentication.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/lib/authentication.rb
+END
+authorization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/lib/authorization.rb
+END
+trustification.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/lib/trustification.rb
+END

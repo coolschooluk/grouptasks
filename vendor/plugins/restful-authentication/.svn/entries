@@ -1,0 +1,115 @@
+8
+
+dir
+510
+http://leopard.theitguys.co.uk/projects/grouptask/trunk/railsapp/vendor/plugins/restful-authentication
+http://leopard.theitguys.co.uk/projects
+
+
+
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07848226-eb29-0410-9935-a462e0b4e283
+
+Rakefile
+file
+
+
+
+
+2009-03-28T21:05:05.000000Z
+baadaf99cec7584a6d5b523c8b419d1e
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+restful-authentication.gemspec
+file
+
+
+
+
+2009-03-28T21:05:05.000000Z
+f1030c2d205c6c0772e16d5bf49abb5f
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+tasks
+dir
+
+TODO
+file
+
+
+
+
+2009-03-28T21:05:05.000000Z
+86e849e95ebfc5040161405c6cfe98f3
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+init.rb
+file
+
+
+
+
+2009-03-28T21:05:05.000000Z
+edb7327a6f6d1dfb6db66d9996d39a89
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2009-03-28T21:05:05.000000Z
+a8629c79b059e6e4d51f5d4f711cd231
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+notes
+dir
+
+generators
+dir
+
+rails
+dir
+
+README.textile
+file
+
+
+
+
+2009-03-28T21:05:05.000000Z
+6f810e5434e8fcfc64301c58e44fdfea
+2009-03-28T21:03:12.820861Z
+509
+djh
+

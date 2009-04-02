@@ -1,0 +1,52 @@
+8
+
+dir
+510
+http://leopard.theitguys.co.uk/projects/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/spec/rails/extensions
+http://leopard.theitguys.co.uk/projects
+
+
+
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07848226-eb29-0410-9935-a462e0b4e283
+
+active_record_spec.rb
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+29e9ded8e6807ee12974a850c45a72da
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+action_view_base_spec.rb
+file
+
+
+
+
+2009-03-28T21:05:08.000000Z
+c07bc36b2e829ab84b83bcbb6200c308
+2009-03-28T21:03:12.820861Z
+509
+djh
+

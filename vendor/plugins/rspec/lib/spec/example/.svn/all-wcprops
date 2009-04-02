@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example
+END
+example_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/example_methods.rb
+END
+pending.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/pending.rb
+END
+predicate_matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/predicate_matchers.rb
+END
+example_group_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/example_group_methods.rb
+END
+example_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/example_proxy.rb
+END
+shared_example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/shared_example_group.rb
+END
+example_matcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/example_matcher.rb
+END
+example_group_factory.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/example_group_factory.rb
+END
+subject.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/subject.rb
+END
+module_reopening_fix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/module_reopening_fix.rb
+END
+example_group_hierarchy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/example_group_hierarchy.rb
+END
+example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/example_group.rb
+END
+example_group_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/example_group_proxy.rb
+END
+before_and_after_hooks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/before_and_after_hooks.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/example/errors.rb
+END

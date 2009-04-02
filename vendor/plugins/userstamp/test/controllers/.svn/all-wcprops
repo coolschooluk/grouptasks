@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/controllers
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/controllers/users_controller.rb
+END
+userstamp_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/controllers/userstamp_controller.rb
+END
+posts_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/test/controllers/posts_controller.rb
+END

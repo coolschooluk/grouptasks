@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script
+END
+spec_server
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/spec_server
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/console
+END
+autospec
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/autospec
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/generate
+END
+spec
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/spec
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/509/grouptask/trunk/railsapp/script/plugin
+END

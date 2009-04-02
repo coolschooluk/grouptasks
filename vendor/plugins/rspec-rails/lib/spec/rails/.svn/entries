@@ -1,0 +1,124 @@
+8
+
+dir
+510
+http://leopard.theitguys.co.uk/projects/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/lib/spec/rails
+http://leopard.theitguys.co.uk/projects
+
+
+
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07848226-eb29-0410-9935-a462e0b4e283
+
+extensions
+dir
+
+interop
+dir
+
+extensions.rb
+file
+
+
+
+
+2009-03-28T21:05:07.000000Z
+0ea7fe88e76705b6c82bd5b5a96446dc
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+spec_server.rb
+file
+
+
+
+
+2009-03-28T21:05:07.000000Z
+e654ed6f611f6fbe6d12b722242f2025
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+story_adapter.rb
+file
+
+
+
+
+2009-03-28T21:05:07.000000Z
+303d2848883a324e56f6700c4f4793cb
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+matchers
+dir
+
+version.rb
+file
+
+
+
+
+2009-03-28T21:05:07.000000Z
+248da71176df6ddc63acf0fc989a7c79
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+matchers.rb
+file
+
+
+
+
+2009-03-28T21:05:07.000000Z
+13cd1f96bdc6c60f111852f86f4b0245
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+example
+dir
+
+example.rb
+file
+
+
+
+
+2009-03-28T21:05:07.000000Z
+ece56960f4208270788f58957b0e3071
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+mocks.rb
+file
+
+
+
+
+2009-03-28T21:05:07.000000Z
+ea64a659a1a40c8d8e35c9d348430430
+2009-03-28T21:03:12.820861Z
+509
+djh
+

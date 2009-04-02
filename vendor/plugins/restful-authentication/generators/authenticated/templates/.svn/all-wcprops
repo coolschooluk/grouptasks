@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates
+END
+signup.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/signup.html.erb
+END
+helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/helper.rb
+END
+signup_notification.erb
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/signup_notification.erb
+END
+authenticated_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/authenticated_test_helper.rb
+END
+login.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/login.html.erb
+END
+_model_partial.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/_model_partial.html.erb
+END
+controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/controller.rb
+END
+authenticated_system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/authenticated_system.rb
+END
+observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/observer.rb
+END
+migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/migration.rb
+END
+site_keys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/site_keys.rb
+END
+model_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/model_helper.rb
+END
+model.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/model.rb
+END
+model_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/model_controller.rb
+END
+activation.erb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/activation.erb
+END
+model_helper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/model_helper_spec.rb
+END
+mailer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/restful-authentication/generators/authenticated/templates/mailer.rb
+END

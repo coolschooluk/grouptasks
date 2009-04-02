@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates
+END
+previous_failures.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates/previous_failures.txt
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates/spec_helper.rb
+END
+rcov.opts
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates/rcov.opts
+END
+rspec.rake
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates/rspec.rake
+END
+spec.opts
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates/spec.opts
+END

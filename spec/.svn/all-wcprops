@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/spec_helper.rb
+END
+rcov.opts
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/rcov.opts
+END
+spec.opts
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/509/grouptask/trunk/railsapp/spec/spec.opts
+END

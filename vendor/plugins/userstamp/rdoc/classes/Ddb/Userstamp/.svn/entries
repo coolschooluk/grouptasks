@@ -1,0 +1,73 @@
+8
+
+dir
+510
+http://leopard.theitguys.co.uk/projects/grouptask/trunk/railsapp/vendor/plugins/userstamp/rdoc/classes/Ddb/Userstamp
+http://leopard.theitguys.co.uk/projects
+
+
+
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07848226-eb29-0410-9935-a462e0b4e283
+
+Stampable
+dir
+
+MigrationHelper
+dir
+
+Stamper
+dir
+
+Stampable.html
+file
+
+
+
+
+2009-03-28T21:05:06.000000Z
+57979c5f072b8af9a3b00fe02bc189f4
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+MigrationHelper.html
+file
+
+
+
+
+2009-03-28T21:05:06.000000Z
+017cc226b1fba68de8da8f90d26c7534
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+Stamper.html
+file
+
+
+
+
+2009-03-28T21:05:06.000000Z
+aaeaa6cc2acc99f6bd25d6112f135090
+2009-03-28T21:03:12.820861Z
+509
+djh
+

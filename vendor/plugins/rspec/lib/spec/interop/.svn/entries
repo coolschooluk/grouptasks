@@ -1,0 +1,43 @@
+8
+
+dir
+510
+http://leopard.theitguys.co.uk/projects/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/interop
+http://leopard.theitguys.co.uk/projects
+
+
+
+2009-03-28T21:03:12.820861Z
+509
+djh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07848226-eb29-0410-9935-a462e0b4e283
+
+test
+dir
+
+test.rb
+file
+
+
+
+
+2009-03-28T21:05:10.000000Z
+07cf31949350ccb1e9023ca60215d2d8
+2009-03-28T21:03:12.820861Z
+509
+djh
+

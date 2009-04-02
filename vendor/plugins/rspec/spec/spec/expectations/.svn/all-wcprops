@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/expectations
+END
+fail_with_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/expectations/fail_with_spec.rb
+END
+wrap_expectation_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/expectations/wrap_expectation_spec.rb
+END
+handler_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec/expectations/handler_spec.rb
+END

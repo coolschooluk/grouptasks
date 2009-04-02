@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/lib
+END
+userstamp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/lib/userstamp.rb
+END
+migration_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/lib/migration_helper.rb
+END
+stampable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/lib/stampable.rb
+END
+stamper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/userstamp/lib/stamper.rb
+END

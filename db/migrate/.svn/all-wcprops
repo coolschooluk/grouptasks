@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/509/grouptask/trunk/railsapp/db/migrate
+END
+20090328203249_create_groups.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/509/grouptask/trunk/railsapp/db/migrate/20090328203249_create_groups.rb
+END
+20090328203008_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/509/grouptask/trunk/railsapp/db/migrate/20090328203008_create_users.rb
+END
+20090328203929_create_projects.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/509/grouptask/trunk/railsapp/db/migrate/20090328203929_create_projects.rb
+END
+20090328204511_create_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/509/grouptask/trunk/railsapp/db/migrate/20090328204511_create_tasks.rb
+END

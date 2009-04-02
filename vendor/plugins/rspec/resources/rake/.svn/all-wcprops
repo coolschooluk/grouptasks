@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/resources/rake
+END
+examples.rake
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/resources/rake/examples.rake
+END
+examples_with_rcov.rake
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/resources/rake/examples_with_rcov.rake
+END
+failing_examples_with_html.rake
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/resources/rake/failing_examples_with_html.rake
+END
+verify_rcov.rake
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/resources/rake/verify_rcov.rake
+END

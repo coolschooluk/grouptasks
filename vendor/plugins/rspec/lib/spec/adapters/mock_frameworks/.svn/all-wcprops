@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/adapters/mock_frameworks
+END
+rr.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/adapters/mock_frameworks/rr.rb
+END
+mocha.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/adapters/mock_frameworks/mocha.rb
+END
+flexmock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/adapters/mock_frameworks/flexmock.rb
+END
+rspec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/lib/spec/adapters/mock_frameworks/rspec.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/interop
+END
+test_case_with_should_methods.feature
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/interop/test_case_with_should_methods.feature
+END
+test_but_not_test_unit.feature
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/interop/test_but_not_test_unit.feature
+END
+examples_and_tests_together.feature
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/features/interop/examples_and_tests_together.feature
+END

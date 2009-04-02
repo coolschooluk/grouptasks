@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/controllers
+END
+groups_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/controllers/groups_controller.rb
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/controllers/users_controller.rb
+END
+application_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/controllers/application_controller.rb
+END
+tasks_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/controllers/tasks_controller.rb
+END
+sessions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/controllers/sessions_controller.rb
+END
+projects_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/509/grouptask/trunk/railsapp/app/controllers/projects_controller.rb
+END

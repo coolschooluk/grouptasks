@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates/script
+END
+spec_server
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates/script/spec_server
+END
+autospec
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates/script/autospec
+END
+spec
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/generators/rspec/templates/script/spec
+END

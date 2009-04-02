@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/controller_spec
+END
+action_with_errors_in_template.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_with_errors_in_template.html.erb
+END
+_partial.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/_partial.html.erb
+END
+action_setting_flash_after_session_reset.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_setting_flash_after_session_reset.html.erb
+END
+action_setting_flash_before_session_reset.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_setting_flash_before_session_reset.html.erb
+END
+action_with_template.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_with_template.html.erb
+END
+action_setting_the_assigns_hash.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_setting_the_assigns_hash.html.erb
+END

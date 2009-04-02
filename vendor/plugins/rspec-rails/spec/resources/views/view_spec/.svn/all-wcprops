@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec
+END
+_partial_with_local_variable.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_partial_with_local_variable.html.erb
+END
+_partial_used_twice.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_partial_used_twice.html.erb
+END
+implicit_helper.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/implicit_helper.html.erb
+END
+template_with_partial_with_array.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/template_with_partial_with_array.html.erb
+END
+_partial_with_sub_partial.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_partial_with_sub_partial.html.erb
+END
+_spacer.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_spacer.html.erb
+END
+multiple_helpers.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/multiple_helpers.html.erb
+END
+explicit_helper.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/explicit_helper.html.erb
+END
+should_not_receive.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/should_not_receive.html.erb
+END
+template_with_partial.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/template_with_partial.html.erb
+END
+entry_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/entry_form.html.erb
+END
+block_helper.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/block_helper.html.erb
+END
+_partial.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_partial.html.erb
+END
+path_params.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/path_params.html.erb
+END
+accessor.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/accessor.html.erb
+END
+template_with_partial_using_collection.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/resources/views/view_spec/template_with_partial_using_collection.html.erb
+END

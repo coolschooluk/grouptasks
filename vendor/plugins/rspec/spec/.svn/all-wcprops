@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec
+END
+README.jruby
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/README.jruby
+END
+rspec_suite.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/rspec_suite.rb
+END
+ruby_forker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/ruby_forker.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec_helper.rb
+END
+spec.opts
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec/spec/spec.opts
+END

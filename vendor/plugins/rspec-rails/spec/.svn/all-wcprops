@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec
+END
+rails_suite.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/rails_suite.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/509/grouptask/trunk/railsapp/vendor/plugins/rspec-rails/spec/spec_helper.rb
+END
